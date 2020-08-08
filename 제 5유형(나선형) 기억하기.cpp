@@ -1,6 +1,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
+//¹ö¹Â´Ù
+
 int main()
 {
 	freopen("input.txt", "r", stdin);

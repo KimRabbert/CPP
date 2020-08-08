@@ -1,6 +1,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
+//ÇîÁ©°ú ±×·¹ÅÚ
+
 int p[10001][10001] = { 0, };
 
 int main()

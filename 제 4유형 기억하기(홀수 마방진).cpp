@@ -1,6 +1,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
+//짝수 사각진
+
 int main()
 {
 	freopen("input.txt", "r", stdin);
