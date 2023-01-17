@@ -2,6 +2,7 @@
 #include <fstream>
 using namespace std;
 
+
 int main()
 {
 	ifstream in;
@@ -17,6 +18,9 @@ int main()
 	out.close();
 	return 0;
 }
+
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
 
 int main()
 {
